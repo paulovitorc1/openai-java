@@ -29,7 +29,9 @@ public class ProdutoCategorizador {
 		
 		disparaRequisicao(user, system);
 		
+		sc.close();
 		}
+		
 	}
 
 	public static void disparaRequisicao(String user, String system) {

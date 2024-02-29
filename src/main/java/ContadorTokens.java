@@ -5,7 +5,7 @@ import com.knuddels.jtokkit.api.Encoding;
 import com.knuddels.jtokkit.api.EncodingRegistry;
 import com.knuddels.jtokkit.api.ModelType;
 
-public class CotnadorTokens {
+public class ContadorTokens {
 
 	public static void main(String[] args) {
 
